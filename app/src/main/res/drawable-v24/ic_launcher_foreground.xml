@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="CMakeSettings">
+        <configurations>
+            <configuration
+                CONFIG_NAME="Debug"
+                PROFILE_NAME="Debug" />
+        </configurations>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default"
+            comment=""
+            default="true"
+            id="f87d7a3b-c827-4a9c-bb92-4eb1e5ab6c9a">
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        </list>
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="TRACKING_ENABLED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsData">
+        <projectState path="$PROJECT_DIR$">
+            <ProjectState />
+        </projectState>
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIM
